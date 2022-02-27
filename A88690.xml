@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the late successe of the Kings and Parliaments forces in Pembroke-Shire: wherein the great victory against the Kings forces in Wales by Major Generall Laughorne is fully related. Ordered by the Commons in Parliament, that this relation be forthwith printed and published: H. Elsynge, Cler. Parl. D. Com.</title>
+            <author>Laugharne, Rowland, d. 1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88690</idno>
+            <idno type="STC">Wing L402aA</idno>
+            <idno type="STC">Thomason E298_6</idno>
+            <idno type="STC">ESTC R200231</idno>
+            <idno type="EEBO-CITATION">99861037</idno>
+            <idno type="PROQUEST">99861037</idno>
+            <idno type="VID">113164</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113164)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 49:E298[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the late successe of the Kings and Parliaments forces in Pembroke-Shire: wherein the great victory against the Kings forces in Wales by Major Generall Laughorne is fully related. Ordered by the Commons in Parliament, that this relation be forthwith printed and published: H. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Laugharne, Rowland, d. 1676.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Aug. 25. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page 7: Rowland Laughorne.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pembrokeshire (Wales) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113164:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 70 -->
+            <p>A TRUE RELATION OF The late Succeſſe of the Kings and Parliaments Forces in <hi>PEMBROKE-SHIRE:</hi>
+            </p>
+            <p>Wherein The great VICTORY againſt the Kings Forces in Wales by Major Generall <hi>LA<g ref="char:V">Ʋ</g>GHORNE</hi> is fully Related.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons in Parliament, That this Relation be forthwith printed and publiſhed:</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London, Printed for <hi>Edward Husband,</hi> Printer to the Honorable Houſe of Commons. Aug. 25. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:113164:2"/>
+            <!-- PDF PAGE 71 -->
+            <pb n="3" facs="tcp:113164:2"/>
+            <!-- PDF PAGE 71 -->
+            <head>A true Relation of the late Succeſſes of the Kings and Parliaments For<g ref="char:EOLhyphen"/>ces in Pembrook-ſhire.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N <hi>Tueſday</hi> the twenty eight of <hi>July</hi> 1645. the Enemies main body be<g ref="char:EOLhyphen"/>ing in <hi>Haverford-weſt,</hi> we drew forth out of Garriſons of <hi>Pem<g ref="char:EOLhyphen"/>brooke</hi> and <hi>Tenby,</hi> with five hundred and fifty Foot, and two hundred Horſe and Dragoons, (being the moſt could be ſpared with ſecurity out of the Townes) and two ſmall Guns, and Marched that day to <hi>Canellon,</hi>
+               <pb n="4" facs="tcp:113164:3"/>
+               <!-- PDF PAGE 72 -->
+within five miles of <hi>Haverford-weſt,</hi> there met ſeven of the Enemies ſcouts, killed one, and took the other ſix: that day Captain <hi>Batten</hi> Arrived at <hi>Mil<g ref="char:EOLhyphen"/>ford,</hi> and by Divine Ordination a<g ref="char:EOLhyphen"/>bove hopes, Landed 150. Sea<g ref="char:EOLhyphen"/>men to increaſe our Foot. VVe kept the field till <hi>Friday</hi> the firſt of <hi>Auguſt,</hi> (no Enemy appearing) then Major Generall <hi>Stradlinge,</hi> and Major Ge<g ref="char:EOLhyphen"/>nerall <hi>Egerton,</hi> drew forth out of <hi>Ha<g ref="char:EOLhyphen"/>verford</hi> with four hundred and fifty Horſe, eleven hundred Foot, and four field Guns into Colby Moor, three miles from <hi>Haverford,</hi> and there put themſelves in Aray for a fight: A ſmall party of our Horſe, guarded on both ſides with an hundred and fifty Musketiers, charged their whole bo<g ref="char:EOLhyphen"/>dy, began the encounter about ſix of
+<pb n="5" facs="tcp:113164:3"/>
+               <!-- PDF PAGE 72 -->
+the Clock in the afternoon, and con<g ref="char:EOLhyphen"/>tinued very fierce and doubtfull near an hour; but in the concluſion, the Enemies Horſe were totally Routed, the reſidue of our Horſe fell on ſome part to do Execution upon the Foot; the other to purſue the Horſe ſpee<g ref="char:EOLhyphen"/>ding for <hi>Haverford:</hi> VVe killed of the Enemies an hundred and fifty, took about ſeven hundred Priſoners, in them men of note, Lieut. Col. <hi>Price,</hi> Major <hi>Braude,</hi> Major <hi>Gud<g ref="char:EOLhyphen"/>dinge,</hi> Capt. <hi>Somes,</hi> Capt. <hi>Wade,</hi> Capt. <hi>Price,</hi> Capt. <hi>Thomas,</hi> Capt. <hi>Lloyd,</hi> Capt. <hi>Dawkins,</hi> Capt. <hi>Morgans,</hi> with twenty two Lieutenants and Inferior Officers, four Guns, five Barrels of Powder, near eight hundred Armes, all their Carriages and Proviſion, and chaſed them home to their Garriſon;
+<pb n="6" facs="tcp:113164:4"/>
+               <!-- PDF PAGE 73 -->
+the night then approaching, we might not beſet the Town to keep in their Horſe, but drew back to the field, ſo that in the night, the enemy deſerted the Town and fled, leaving a Garriſon in the Caſtle: Saturday we entred the Town and Beſieged the Caſtle, began our Battery on Munday, but ſpent much Ammunition to little purpoſe.</p>
+            <p>Tueſday giving over we fired the outer gate, and ſeaſed the walls, gained the Caſtle, took priſoners and hundred &amp; twenty Com<g ref="char:EOLhyphen"/>mon Souldiers, and neer twenty Comman<g ref="char:EOLhyphen"/>ders and Officers, whereof were Colonell <hi>Manley</hi> the Governour, Lieut. Colonel <hi>Edger,</hi> Major <hi>Hawton,</hi> Captain <hi>Buſhell,</hi> Capt. <hi>Tho<g ref="char:EOLhyphen"/>mas,</hi> Capt. <hi>Baudley,</hi> Capt. <hi>Moore,</hi> and Capt. <hi>Cromwell;</hi> one piece of Ordnance, and hundred and twenty Arms, ſome pillage to the Soul<g ref="char:EOLhyphen"/>diers, beſide the Proviſion.</p>
+            <p>Yeſterday being the 8. of <hi>Auguſt,</hi> we had a
+<pb n="7" facs="tcp:113164:4"/>
+               <!-- PDF PAGE 73 -->
+day of publique Humiliation and Thankſ<g ref="char:EOLhyphen"/>giving in <hi>Pembrook</hi> and <hi>Haverford,</hi> and the Leager: This day, we drew our force of Horſe and foot before <hi>Carew</hi> Caſtle, and are drawing up our Ordnance to plant them before the Caſtle; relying upon the Lord of Heaven for a bleſſing; In all theſe Actions we bleſſe God, we loſt but two men, and about ſixty wounded, none mortally.</p>
+            <closer>
+               <signed>Rowland Laughorne.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
